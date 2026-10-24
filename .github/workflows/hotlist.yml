@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 抓取并生成 hotlist.json
-        run: node scripts/fetch-hotlist.mjs
+        run: node fetch-hotlist.mjs
 
       - name: 提交更新
         run: |
