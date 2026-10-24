@@ -1,0 +1,34 @@
+# 热榜自动抓取（GitHub Actions 版）
+# 每天北京时间 8:00 / 20:00 各跑一次，抓取失败就保留旧快照
+name: 热榜自动抓取
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'   # UTC 0点/12点 = 北京时间 8:00 / 20:00
+  workflow_dispatch:          # 允许在网页上手动点 "Run workflow" 立即测试
+
+permissions:
+  contents: write             # 允许把抓到的 hotlist.json 提交回仓库
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 抓取并生成 hotlist.json
+        run: node scripts/fetch-hotlist.mjs
+
+      - name: 提交更新
+        run: |
+          git config user.name "hotlist-bot"
+          git config user.email "hotlist-bot@users.noreply.github.com"
+          git add hotlist.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "内容无变化，跳过提交"
+          else
+            git commit -m "chore: 热榜快照 $(date -u +%Y-%m-%d)"
+            git push
+            echo "已提交并推送新快照"
+          fi
