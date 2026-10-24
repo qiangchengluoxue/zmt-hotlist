@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-25",
+  "source": "内置示例快照（等 Actions 跑通后会被自动替换）",
+  "failed": [],
+  "entries": [
+    { "platform": "微博", "title": "「秋天的第一杯奶茶」刷屏，门店订单涨三成", "heat": 2856421, "category": "生活" },
+    { "platform": "微博", "title": "年轻人流行周末去公园「虚度光阴」", "heat": 1987320, "category": "生活" },
+    { "platform": "微博", "title": "打工人开始带饭上班", "heat": 1654230, "category": "职场" },
+    { "platform": "微博", "title": "毕业季：第一份工作到底怎么选", "heat": 1209870, "category": "职场" },
+    { "platform": "知乎", "title": "为什么越来越多人开始记录生活？", "heat": 1523000, "category": "生活" },
+    { "platform": "知乎", "title": "普通人的第一份副业，选什么起步？", "heat": 1345000, "category": "搞钱" },
+    { "platform": "知乎", "title": "如何评价「过渡期」BGM 走红？", "heat": 890200, "category": "娱乐" },
+    { "platform": "知乎", "title": "秋天怎么养生才不踩坑？", "heat": 765400, "category": "养生" },
+    { "platform": "百度", "title": "秋季养生食谱", "heat": 2104000, "category": "养生" },
+    { "platform": "百度", "title": "社保新变化解读", "heat": 1890000, "category": "职场" },
+    { "platform": "百度", "title": "个税汇算清缴开始", "heat": 1560000, "category": "搞钱" },
+    { "platform": "抖音", "title": "非遗漆器教程涨粉百万", "heat": 2350000, "category": "娱乐" },
+    { "platform": "抖音", "title": "大学生挑战 100 元吃一周", "heat": 1780000, "category": "生活" },
+    { "platform": "B站", "title": "手工区「无限流」文具盒火出圈", "heat": 1450000, "category": "娱乐" },
+    { "platform": "B站", "title": "准大学生入学装备清单", "heat": 980000, "category": "职场" },
+    { "platform": "头条", "title": "秋招进行时：这些新职业受青睐", "heat": 1320000, "category": "职场" },
+    { "platform": "头条", "title": "楼市新政解读", "heat": 1120000, "category": "财经" },
+    { "platform": "小红书", "title": "早秋通勤穿搭", "heat": 1980000, "category": "生活" },
+    { "platform": "小红书", "title": "自律 Vlog 为什么这么火？", "heat": 1240000, "category": "生活" }
+  ]
+}
