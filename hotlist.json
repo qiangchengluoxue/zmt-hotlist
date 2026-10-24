@@ -1,26 +1,240 @@
 {
-  "date": "2026-10-25",
-  "source": "内置示例快照（等 Actions 跑通后会被自动替换）",
-  "failed": [],
+  "date": "2026-10-24",
+  "source": "GitHub Actions 自动抓取",
+  "failed": [
+    "微博",
+    "知乎",
+    "抖音",
+    "小红书"
+  ],
   "entries": [
-    { "platform": "微博", "title": "「秋天的第一杯奶茶」刷屏，门店订单涨三成", "heat": 2856421, "category": "生活" },
-    { "platform": "微博", "title": "年轻人流行周末去公园「虚度光阴」", "heat": 1987320, "category": "生活" },
-    { "platform": "微博", "title": "打工人开始带饭上班", "heat": 1654230, "category": "职场" },
-    { "platform": "微博", "title": "毕业季：第一份工作到底怎么选", "heat": 1209870, "category": "职场" },
-    { "platform": "知乎", "title": "为什么越来越多人开始记录生活？", "heat": 1523000, "category": "生活" },
-    { "platform": "知乎", "title": "普通人的第一份副业，选什么起步？", "heat": 1345000, "category": "搞钱" },
-    { "platform": "知乎", "title": "如何评价「过渡期」BGM 走红？", "heat": 890200, "category": "娱乐" },
-    { "platform": "知乎", "title": "秋天怎么养生才不踩坑？", "heat": 765400, "category": "养生" },
-    { "platform": "百度", "title": "秋季养生食谱", "heat": 2104000, "category": "养生" },
-    { "platform": "百度", "title": "社保新变化解读", "heat": 1890000, "category": "职场" },
-    { "platform": "百度", "title": "个税汇算清缴开始", "heat": 1560000, "category": "搞钱" },
-    { "platform": "抖音", "title": "非遗漆器教程涨粉百万", "heat": 2350000, "category": "娱乐" },
-    { "platform": "抖音", "title": "大学生挑战 100 元吃一周", "heat": 1780000, "category": "生活" },
-    { "platform": "B站", "title": "手工区「无限流」文具盒火出圈", "heat": 1450000, "category": "娱乐" },
-    { "platform": "B站", "title": "准大学生入学装备清单", "heat": 980000, "category": "职场" },
-    { "platform": "头条", "title": "秋招进行时：这些新职业受青睐", "heat": 1320000, "category": "职场" },
-    { "platform": "头条", "title": "楼市新政解读", "heat": 1120000, "category": "财经" },
-    { "platform": "小红书", "title": "早秋通勤穿搭", "heat": 1980000, "category": "生活" },
-    { "platform": "小红书", "title": "自律 Vlog 为什么这么火？", "heat": 1240000, "category": "生活" }
-  ]
+    {
+      "platform": "百度",
+      "title": "金正恩访问丹东",
+      "heat": 7809527,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "广州新规：“电鸡”多次违法可扣车",
+      "heat": 7714618,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "出口首破8万亿 “新”字挑大梁",
+      "heat": 7617572,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "菲防长提着纸糊的盾牌对中国发起冲锋",
+      "heat": 7520141,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "哪些省份的结婚人数多",
+      "heat": 7428332,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "毛不易出席多年好友婚礼致辞引争议",
+      "heat": 7331809,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "徐嘉余50米仰泳破世界纪录",
+      "heat": 7236520,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "农村拼豆店走红 有公司送去442斤拼豆",
+      "heat": 7140244,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "李健演唱会结束反复向观众道谢",
+      "heat": 7040231,
+      "category": ""
+    },
+    {
+      "platform": "百度",
+      "title": "最高法披露“北大包丽案”细节",
+      "heat": 6946043,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "菲两架军机空中相撞画面曝光",
+      "heat": 14359856,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "金正恩访问丹东 王沪宁陪同",
+      "heat": 12993335,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "子弟兵为西藏震区受灾群众煮上热饭",
+      "heat": 11756856,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "美解密UFO档案：黑三角3秒飞2.4公里",
+      "heat": 10638043,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "乌鸦喝水不扔石子了直接找人帮忙",
+      "heat": 9625699,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "2025年全国初婚人数1042.33万",
+      "heat": 8709693,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "菲防长叫嚣“战争行为”恐吓中国",
+      "heat": 7880856,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "二婚夫妻离世未留遗嘱 子女吵上法庭",
+      "heat": 7130893,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "父亲突发脑梗儿子用豆包抢出救命时间",
+      "heat": 6452299,
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "金正恩向抗美援朝纪念塔敬献花篮",
+      "heat": 5838282,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "MKOI CFO",
+      "heat": 9481905,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "黄仁勋称内存近期不会供应过剩",
+      "heat": 1688017,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "实现财富自由到底要多少钱",
+      "heat": 1151056,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "LOS G2",
+      "heat": 1127972,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "UP主起底20多年的传销头目",
+      "heat": 1081839,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "凡人魏无涯为何选择弃城",
+      "heat": 727888,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "TES AL",
+      "heat": 721611,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "速通中土网友对线大战",
+      "heat": 703841,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "柴西探索现实版夜之城",
+      "heat": 634140,
+      "category": ""
+    },
+    {
+      "platform": "B站",
+      "title": "绝区零挽昼实机首曝",
+      "heat": 613548,
+      "category": ""
+    }
+  ],
+  "debug": {
+    "startedAt": "2026-10-24T19:03:48.482Z",
+    "finishedAt": "2026-10-24T19:03:51.358Z",
+    "results": [
+      {
+        "platform": "百度",
+        "source": "baidu-pc",
+        "ok": true,
+        "count": 50
+      },
+      {
+        "platform": "头条",
+        "source": "toutiao-board",
+        "ok": true,
+        "count": 50
+      },
+      {
+        "platform": "B站",
+        "source": "bili-hot",
+        "ok": true,
+        "count": 50
+      },
+      {
+        "platform": "微博",
+        "source": "-",
+        "ok": false,
+        "error": "接口对海外IP封锁，暂无自动源"
+      },
+      {
+        "platform": "知乎",
+        "source": "-",
+        "ok": false,
+        "error": "接口对海外IP封锁，暂无自动源"
+      },
+      {
+        "platform": "抖音",
+        "source": "-",
+        "ok": false,
+        "error": "接口对海外IP封锁，暂无自动源"
+      },
+      {
+        "platform": "小红书",
+        "source": "-",
+        "ok": false,
+        "error": "接口对海外IP封锁，暂无自动源"
+      }
+    ]
+  }
 }
