@@ -4,7 +4,7 @@ name: 热榜自动抓取
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'   # UTC 0点/12点 = 北京时间 8:00 / 20:00
+    - cron: '0 0,4,12 * * *'   # UTC 0/4/12点 = 北京时间 8:00 / 12:00 / 20:00（早中晚）
   workflow_dispatch:          # 允许在网页上手动点 "Run workflow" 立即测试
 
 permissions:
