@@ -1,97 +1,111 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "source": "UAPI 聚合（GitHub Actions 自动抓取）",
   "failed": [],
   "entries": [
     {
       "platform": "微博",
-      "title": "特朗普刚返美就发重大预告",
+      "title": "DeepSeek付费体验直线上升",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%BF%94%E7%BE%8E%E5%B0%B1%E5%8F%91%E9%87%8D%E5%A4%A7%E9%A2%84%E5%91%8A",
+      "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "荔枝冰酒断货居然是因为没酒瓶了",
+      "title": "后会友期黄焖鸡事件原声视频",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E6%96%AD%E8%B4%A7%E5%B1%85%E7%84%B6%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%B2%A1%E9%85%92%E7%93%B6%E4%BA%86",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E4%BB%B6%E5%8E%9F%E5%A3%B0%E8%A7%86%E9%A2%91",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "从细节读懂中国带给亚太的确定性",
+      "title": "APEC盛会效应拉满",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7",
+      "url": "https://s.weibo.com/weibo?q=APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "DK官宣Doran和Kanavi加入",
+      "title": "李嫣唱歌太孝顺了",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=DK%E5%AE%98%E5%AE%A3Doran%E5%92%8CKanavi%E5%8A%A0%E5%85%A5",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AB%A3%E5%94%B1%E6%AD%8C%E5%A4%AA%E5%AD%9D%E9%A1%BA%E4%BA%86",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "天霸独狼吃鸡",
+      "title": "金价",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E7%8B%AC%E7%8B%BC%E5%90%83%E9%B8%A1",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "腾讯因仙逆动画索赔1亿",
+      "title": "成毅两京十五日演技表现",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E5%9B%A0%E4%BB%99%E9%80%86%E5%8A%A8%E7%94%BB%E7%B4%A2%E8%B5%941%E4%BA%BF",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E6%BC%94%E6%8A%80%E8%A1%A8%E7%8E%B0",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "浪琴优雅之家",
+      "title": "金价罕见大跌原因找到了",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E7%90%B4%E4%BC%98%E9%9B%85%E4%B9%8B%E5%AE%B6",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%BD%95%E8%A7%81%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "沈腾拿最佳男主角了",
+      "title": "深圳人又开始原装出街了",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E6%8B%BF%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E4%BA%86",
+      "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%8F%88%E5%BC%80%E5%A7%8B%E5%8E%9F%E8%A3%85%E5%87%BA%E8%A1%97%E4%BA%86",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "韩网谈Viper加入KRX的原因",
+      "title": "AI证明黎曼猜想传闻",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E8%B0%88Viper%E5%8A%A0%E5%85%A5KRX%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "url": "https://s.weibo.com/weibo?q=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BC%A0%E9%97%BB",
       "category": ""
     },
     {
       "platform": "微博",
-      "title": "中国航天从神1走到了神24",
+      "title": "股民集体抛售科技股",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BB%8E%E7%A5%9E1%E8%B5%B0%E5%88%B0%E4%BA%86%E7%A5%9E24",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E6%B0%91%E9%9B%86%E4%BD%93%E6%8A%9B%E5%94%AE%E7%A7%91%E6%8A%80%E8%82%A1",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "如何看待马斯克离开深圳，突访上海？",
+      "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2106907755730814315",
+      "url": "https://www.zhihu.com/question/2107239235015263538",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "中俄美和平宣言为何特别强调国际刑事法院不得滥用管辖权？具体针对的是什么？这一表述有何现实背景？",
+      "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2106848715306526025",
+      "url": "https://www.zhihu.com/question/2106839067346350136",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "王毅介绍中俄美元首会晤情况，称这是一次「和平峰会」，是载入史册的标志性事件，传递出了哪些信号？",
+      "title": "中俄美三方的和平宣言发布后，将会为俄乌局势带来哪些变量？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2107019870122547156",
+      "url": "https://www.zhihu.com/question/2106847799899678337",
+      "category": ""
+    },
+    {
+      "platform": "知乎",
+      "title": "U17 世界杯小组赛，西班牙 U17  vs 中国 U17 男足，如何评价本场比赛？",
+      "heat": 0,
+      "url": "https://www.zhihu.com/question/2107245763558209161",
+      "category": ""
+    },
+    {
+      "platform": "知乎",
+      "title": "为什么欧美使用壁炉的普遍性这么高，而中国却没有？",
+      "heat": 0,
+      "url": "https://www.zhihu.com/question/20796435",
       "category": ""
     },
     {
@@ -103,114 +117,100 @@
     },
     {
       "platform": "知乎",
-      "title": "酒店的浴室为什么大多是透明的？",
+      "title": "在中世纪时代拒绝骑士决斗，或在美国西部时代拒绝牛仔决斗，直接认怂，能活命么？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/527454391",
+      "url": "https://www.zhihu.com/question/356942001",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？",
+      "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2106889511993189511",
+      "url": "https://www.zhihu.com/question/2106706684672471150",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "媒体称中国 AI 人才不再迷恋美国成群回国，这一趋势背后的核心动因是什么？",
+      "title": "发达国家中，日本人出国旅游意愿为何那么低？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2106184065661641559",
+      "url": "https://www.zhihu.com/question/2062065010873054969",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "中国政法、上大、上海交大等多所高校不向2027级研究生提供宿舍，为何各校宿舍紧张问题都迟迟没能解决？",
+      "title": "信用卡近一年减少 3400 万张，信用卡为何逐渐失去吸引力？背后反映出消费者支付习惯发生了哪些变化？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2107038570422563911",
-      "category": ""
-    },
-    {
-      "platform": "知乎",
-      "title": "爱奇艺股价已连续 27 个交易日低于 1 美元，最快将于11月23日触发退市警告，它真的会退市吗？",
-      "heat": 0,
-      "url": "https://www.zhihu.com/question/2106740458650957442",
-      "category": ""
-    },
-    {
-      "platform": "知乎",
-      "title": "为什么唐僧对猪八戒会有一点偏爱？",
-      "heat": 0,
-      "url": "https://www.zhihu.com/question/1977299907032397436",
+      "url": "https://www.zhihu.com/question/2107163928622887904",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "特朗普结束亚洲行返回白宫",
-      "heat": 10993285,
-      "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E4%BA%9A%E6%B4%B2%E8%A1%8C%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB?type=general",
-      "category": ""
-    },
-    {
-      "platform": "抖音",
-      "title": "U17男足首战对阵西班牙",
-      "heat": 10974500,
-      "url": "https://www.douyin.com/search/U17%E7%94%B7%E8%B6%B3%E9%A6%96%E6%88%98%E5%AF%B9%E9%98%B5%E8%A5%BF%E7%8F%AD%E7%89%99?type=general",
-      "category": ""
-    },
-    {
-      "platform": "抖音",
-      "title": "亚太前沿领域机遇看中国",
-      "heat": 10935378,
-      "url": "https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%89%8D%E6%B2%BF%E9%A2%86%E5%9F%9F%E6%9C%BA%E9%81%87%E7%9C%8B%E4%B8%AD%E5%9B%BD?type=general",
-      "category": ""
-    },
-    {
-      "platform": "抖音",
-      "title": "APEC外宾游深圳邂逅地道美食",
-      "heat": 10932863,
-      "url": "https://www.douyin.com/search/APEC%E5%A4%96%E5%AE%BE%E6%B8%B8%E6%B7%B1%E5%9C%B3%E9%82%82%E9%80%85%E5%9C%B0%E9%81%93%E7%BE%8E%E9%A3%9F?type=general",
+      "title": "U17男足0:5西班牙",
+      "heat": 12104404,
+      "url": "https://www.douyin.com/search/U17%E7%94%B7%E8%B6%B30%3A5%E8%A5%BF%E7%8F%AD%E7%89%99?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
       "title": "泰国总理带夫人在深圳吃夜宵",
-      "heat": 10347422,
+      "heat": 12098761,
       "url": "https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%B8%A6%E5%A4%AB%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%83%E5%A4%9C%E5%AE%B5?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "粤菜亮相APEC欢迎晚宴",
-      "heat": 10339916,
-      "url": "https://www.douyin.com/search/%E7%B2%A4%E8%8F%9C%E4%BA%AE%E7%9B%B8APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4?type=general",
+      "title": "亚太前沿领域机遇看中国",
+      "heat": 11449064,
+      "url": "https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%89%8D%E6%B2%BF%E9%A2%86%E5%9F%9F%E6%9C%BA%E9%81%87%E7%9C%8B%E4%B8%AD%E5%9B%BD?type=general",
+      "category": ""
+    },
+    {
+      "platform": "抖音",
+      "title": "终于懂李白走到哪都写诗了",
+      "heat": 11337576,
+      "url": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
       "title": "外交部回应高市早苗涉台问题表态",
-      "heat": 9200854,
+      "heat": 10710561,
       "url": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%97%AE%E9%A2%98%E8%A1%A8%E6%80%81?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
+      "title": "粤菜亮相APEC欢迎晚宴",
+      "heat": 10695002,
+      "url": "https://www.douyin.com/search/%E7%B2%A4%E8%8F%9C%E4%BA%AE%E7%9B%B8APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4?type=general",
+      "category": ""
+    },
+    {
+      "platform": "抖音",
+      "title": "普京抵达塔吉克斯坦进行访问",
+      "heat": 9362496,
+      "url": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E8%BF%9B%E8%A1%8C%E8%AE%BF%E9%97%AE?type=general",
+      "category": ""
+    },
+    {
+      "platform": "抖音",
       "title": "灯火里的深圳 照见开放与活力",
-      "heat": 9190420,
+      "heat": 9296419,
       "url": "https://www.douyin.com/search/%E7%81%AF%E7%81%AB%E9%87%8C%E7%9A%84%E6%B7%B1%E5%9C%B3%20%E7%85%A7%E8%A7%81%E5%BC%80%E6%94%BE%E4%B8%8E%E6%B4%BB%E5%8A%9B?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "这首告别的诗为什么偏偏写草",
-      "heat": 9115813,
-      "url": "https://www.douyin.com/search/%E8%BF%99%E9%A6%96%E5%91%8A%E5%88%AB%E7%9A%84%E8%AF%97%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%8F%E5%81%8F%E5%86%99%E8%8D%89?type=general",
+      "title": "墨西哥总统发视频感谢中方女保镖",
+      "heat": 9249712,
+      "url": "https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A7%86%E9%A2%91%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "谢谢你深圳",
-      "heat": 9005092,
-      "url": "https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E4%BD%A0%E6%B7%B1%E5%9C%B3?type=general",
+      "title": "高市早苗搭话特朗普遭无视",
+      "heat": 9238726,
+      "url": "https://www.douyin.com/search/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%90%AD%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%97%A0%E8%A7%86?type=general",
       "category": ""
     },
     {
@@ -355,16 +355,16 @@
     },
     {
       "platform": "头条",
-      "title": "飞天茅台溢价缩至70元",
+      "title": "纳指重挫5% 英伟达狂泻14%",
       "heat": 0,
-      "url": "https://www.toutiao.com/trending/7707594393074778651/",
+      "url": "https://www.toutiao.com/trending/7710394324583714355/",
       "category": ""
     },
     {
       "platform": "头条",
-      "title": "特朗普刚返美就发重大预告",
+      "title": "特朗普：中俄美元首会晤史无前例",
       "heat": 0,
-      "url": "https://www.toutiao.com/trending/7709509765424267300/",
+      "url": "https://www.toutiao.com/trending/7710391553490947620/",
       "category": ""
     },
     {
@@ -376,9 +376,16 @@
     },
     {
       "platform": "头条",
-      "title": "杨德龙：A股已到历史级估值底",
+      "title": "特朗普：伊朗不想达成我能接受的协议",
       "heat": 0,
-      "url": "https://www.toutiao.com/trending/7710179321499828787/",
+      "url": "https://www.toutiao.com/trending/7710392889351638555/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "胖东来原址开的新商场几乎倒闭",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7709314788123525147/",
       "category": ""
     },
     {
@@ -390,23 +397,16 @@
     },
     {
       "platform": "头条",
-      "title": "媒体：多国领导人感谢中国不是客套话",
+      "title": "U17男足0:5西班牙",
       "heat": 0,
-      "url": "https://www.toutiao.com/trending/7709881514440032778/",
+      "url": "https://www.toutiao.com/trending/7709864821470363690/",
       "category": ""
     },
     {
       "platform": "头条",
-      "title": "余承东纠正“开车可以睡觉”言论",
+      "title": "学者：乌军炸桥想以战促谈",
       "heat": 0,
-      "url": "https://www.toutiao.com/trending/7709417593496436786/",
-      "category": ""
-    },
-    {
-      "platform": "头条",
-      "title": "墨西哥总统感谢中国女保镖",
-      "heat": 0,
-      "url": "https://www.toutiao.com/trending/7709392181840216107/",
+      "url": "https://www.toutiao.com/trending/7710387946477588009/",
       "category": ""
     },
     {
@@ -418,85 +418,85 @@
     },
     {
       "platform": "头条",
-      "title": "内蒙古又找到一座金矿",
+      "title": "特朗普从中国返美途中发帖",
       "heat": 0,
-      "url": "https://www.toutiao.com/trending/7708944272167207450/",
+      "url": "https://www.toutiao.com/trending/7709481684689240107/",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "大国外交的“深圳时刻”",
-      "heat": 7904231,
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "两张历史性同框照为何在中国定格",
+      "heat": 7904655,
+      "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%BC%A0%E5%8E%86%E5%8F%B2%E6%80%A7%E5%90%8C%E6%A1%86%E7%85%A7%E4%B8%BA%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%9A%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "全妆深圳美得像小说里的A市",
-      "heat": 7808515,
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%A6%86%E6%B7%B1%E5%9C%B3%E7%BE%8E%E5%BE%97%E5%83%8F%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84A%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "“工业母鸡”也被干成白菜价",
+      "heat": 7809176,
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B7%A5%E4%B8%9A%E6%AF%8D%E9%B8%A1%E2%80%9D%E4%B9%9F%E8%A2%AB%E5%B9%B2%E6%88%90%E7%99%BD%E8%8F%9C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "12306迎来重大更新",
-      "heat": 7714607,
-      "url": "https://www.baidu.com/s?wd=12306%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "年轻人还逛商场 只是先去了B1层",
+      "heat": 7713326,
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%98%E9%80%9B%E5%95%86%E5%9C%BA+%E5%8F%AA%E6%98%AF%E5%85%88%E5%8E%BB%E4%BA%86B1%E5%B1%82&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "亚太经合组织互联互通蓝图",
-      "heat": 7616271,
-      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E8%93%9D%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "科技新国货成“深圳特产”",
+      "heat": 7616778,
+      "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "亮相APEC晚宴的荔枝冰酒已全线售罄",
-      "heat": 7521650,
-      "url": "https://www.baidu.com/s?wd=%E4%BA%AE%E7%9B%B8APEC%E6%99%9A%E5%AE%B4%E7%9A%84%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%B7%B2%E5%85%A8%E7%BA%BF%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "羽毛球世界冠军周昊东兴奋剂检测阳性",
+      "heat": 7524463,
+      "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E5%91%A8%E6%98%8A%E4%B8%9C%E5%85%B4%E5%A5%8B%E5%89%82%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "厦门大学收到捐款1亿元",
-      "heat": 7426717,
-      "url": "https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6%E6%94%B6%E5%88%B0%E6%8D%90%E6%AC%BE1%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "美团、京东、阿里集体盯上了厨房",
+      "heat": 7429002,
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%E3%80%81%E4%BA%AC%E4%B8%9C%E3%80%81%E9%98%BF%E9%87%8C%E9%9B%86%E4%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E5%8E%A8%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "网店挂出1分钱睡衣引200万人下单",
-      "heat": 7333460,
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%BA%97%E6%8C%82%E5%87%BA1%E5%88%86%E9%92%B1%E7%9D%A1%E8%A1%A3%E5%BC%95200%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "中国最大饺子店要上市了",
+      "heat": 7332992,
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A5%BA%E5%AD%90%E5%BA%97%E8%A6%81%E4%B8%8A%E5%B8%82%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "白居易笔下的名场面在西安具象化了",
-      "heat": 7235569,
-      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B1%85%E6%98%93%E7%AC%94%E4%B8%8B%E7%9A%84%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%9C%A8%E8%A5%BF%E5%AE%89%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "内蒙古发现价值超60亿元金矿",
+      "heat": 7235701,
+      "url": "https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%8F%91%E7%8E%B0%E4%BB%B7%E5%80%BC%E8%B6%8560%E4%BA%BF%E5%85%83%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "新娘跟妆日薪四五千",
-      "heat": 7136812,
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E8%B7%9F%E5%A6%86%E6%97%A5%E8%96%AA%E5%9B%9B%E4%BA%94%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "工商银行发布风险提示",
+      "heat": 7136825,
+      "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     },
     {
       "platform": "百度",
-      "title": "当一天深圳人",
-      "heat": 7048457,
-      "url": "https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E5%A4%A9%E6%B7%B1%E5%9C%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "深圳 一个有大故事的地方",
+      "heat": 7039705,
+      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3+%E4%B8%80%E4%B8%AA%E6%9C%89%E5%A4%A7%E6%95%85%E4%BA%8B%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news",
       "category": ""
     }
   ],
   "debug": {
-    "startedAt": "2026-11-20T12:54:34.110Z",
-    "finishedAt": "2026-11-20T12:54:45.432Z",
+    "startedAt": "2026-11-21T00:49:26.447Z",
+    "finishedAt": "2026-11-21T00:49:38.250Z",
     "results": [
       {
         "platform": "微博",
