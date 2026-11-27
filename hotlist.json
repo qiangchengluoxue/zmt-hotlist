@@ -1,218 +1,148 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "source": "UAPI 聚合（GitHub Actions 自动抓取）",
   "failed": [
-    "头条"
+    "微博"
   ],
   "entries": [
     {
-      "platform": "微博",
-      "title": "业主搜到咒自家小孩WiFi名后续",
+      "platform": "知乎",
+      "title": "如何看待蔡磊进入渐冻症终末期，其妻子称上次与蔡磊见面全程没有说话而是一直在哭？",
       "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%9A%E4%B8%BB%E6%90%9C%E5%88%B0%E5%92%92%E8%87%AA%E5%AE%B6%E5%B0%8F%E5%AD%A9WiFi%E5%90%8D%E5%90%8E%E7%BB%AD",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "后会友期才播到第8天",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%89%8D%E6%92%AD%E5%88%B0%E7%AC%AC8%E5%A4%A9",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "2026世界市长对话乌鲁木齐",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "我的美食日记",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E7%BE%8E%E9%A3%9F%E6%97%A5%E8%AE%B0",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "文吉儿0镜头原因",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF0%E9%95%9C%E5%A4%B4%E5%8E%9F%E5%9B%A0",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "曝BLG挽留Daeny",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E6%9B%9DBLG%E6%8C%BD%E7%95%99Daeny",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "后会友期 天娱高层",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E5%A4%A9%E5%A8%B1%E9%AB%98%E5%B1%82",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "厉娜强直性脊柱炎",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%BC%BA%E7%9B%B4%E6%80%A7%E8%84%8A%E6%9F%B1%E7%82%8E",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "A股得拿稳了",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%BE%97%E6%8B%BF%E7%A8%B3%E4%BA%86",
-      "category": ""
-    },
-    {
-      "platform": "微博",
-      "title": "小米1用户催更小米18",
-      "heat": 0,
-      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B31%E7%94%A8%E6%88%B7%E5%82%AC%E6%9B%B4%E5%B0%8F%E7%B1%B318",
+      "url": "https://www.zhihu.com/question/2109172404547228699",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "如何看待美国陆军在爱荷华州就地受控引爆约 5 吨劣化叠氮化铅？这对人和环境的影响有多大？",
+      "title": "魏建军感慨车企竞争激烈，董明珠提出「家里冲进老鼠把它打掉就好」，这套竞争思路放在现在的汽车行业适合吗？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2108344069512492110",
+      "url": "https://www.zhihu.com/question/2109305887672357185",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "如何看待黎曼猜想证明已被压缩 99.5% 到 7.6 万行？",
+      "title": "东北人好像比别的地方更痴迷于始祖鸟、可隆、迪桑特这些高价低性价比运动服饰，为什么会这样？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2109221701389239407",
+      "url": "https://www.zhihu.com/question/2107954937695163825",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "多家机器人公司进入破产清算，两年近30家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？",
+      "title": "如何评价DeepSeek网页和App端开始展示消耗额度？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2108863007048591328",
+      "url": "https://www.zhihu.com/question/2109411707877695723",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "国产可口可乐不再标生产日期，客服称新国标允许保质期 6 个月以上可只标「到期日」，怎样看待这一变化？",
+      "title": "沈阳最帅保洁大叔宣布辞职，如何评价他的选择？他接下来可能会去干什么？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2108687089319371970",
+      "url": "https://www.zhihu.com/question/2109025597510739022",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "网红甲亢哥百米跑出 10.35 秒，前 15 米加速度比博尔特还快，这一成绩含金量如何？",
+      "title": "海康威视取消大小周，严格执行八小时工作制，部分员工称每月少近三千元，公司的工时调整为何员工不买账？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2108516163269439800",
+      "url": "https://www.zhihu.com/question/2108244269681189697",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "如果一个月给你8000，但办公室永远只有你一个人，连说话的人都没有，你能坚持多久？",
+      "title": "为什么植物大战僵尸现在还受欢迎，而愤怒的小鸟却很少有人玩了？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2107406132625069628",
+      "url": "https://www.zhihu.com/question/2102466524611199485",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "外交部回应美国被曝将对中国等十几国加征关税，称反对以产能过剩为借口政治操弄，如何解读？美国到底图什么？",
+      "title": "能拍出《大明王朝 1566》的导演为什么会在《两京十五日》翻车了？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2108982669157425814",
+      "url": "https://www.zhihu.com/question/2108875718960617190",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "为什么「不要一直穿同一双鞋」，鞋换着穿有哪些必要性？",
+      "title": "如何看待高校校园 App 泛滥现象？智慧校园为何反而成了学生的手机负担？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2108218105012936951",
+      "url": "https://www.zhihu.com/question/2107039915577971243",
       "category": ""
     },
     {
       "platform": "知乎",
-      "title": "如何评价数学家Calegari认为黎曼猜想的证明过程只是从图书馆的书架上拿下来了一本书？",
+      "title": "巴基斯坦航天员随神舟二十四号进驻天宫，是否预示着美国、日本或者其他国家航天员今后可能也可以？",
       "heat": 0,
-      "url": "https://www.zhihu.com/question/2108868229795942882",
-      "category": ""
-    },
-    {
-      "platform": "知乎",
-      "title": "为什么烧烤店要用铁签子？客人要求打包怎么办？",
-      "heat": 0,
-      "url": "https://www.zhihu.com/question/1978722841781360155",
+      "url": "https://www.zhihu.com/question/2108915782302421410",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "U17国足迎战斐济争出线",
-      "heat": 11067682,
-      "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E8%BF%8E%E6%88%98%E6%96%90%E6%B5%8E%E4%BA%89%E5%87%BA%E7%BA%BF?type=general",
+      "title": "A股午盘三大指数走高",
+      "heat": 12359617,
+      "url": "https://www.douyin.com/search/A%E8%82%A1%E5%8D%88%E7%9B%98%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B5%B0%E9%AB%98?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "欧联奥林匹亚科斯vsAC米兰",
-      "heat": 11038262,
-      "url": "https://www.douyin.com/search/%E6%AC%A7%E8%81%94%E5%A5%A5%E6%9E%97%E5%8C%B9%E4%BA%9A%E7%A7%91%E6%96%AFvsAC%E7%B1%B3%E5%85%B0?type=general",
+      "title": "U17国足8:0斐济",
+      "heat": 11400269,
+      "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38%3A0%E6%96%90%E6%B5%8E?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "2026世界市长对话乌鲁木齐",
-      "heat": 10959979,
-      "url": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90?type=general",
+      "title": "我国将加快培育服务贸易发展新动能",
+      "heat": 11222696,
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E5%9F%B9%E8%82%B2%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E6%96%B0%E5%8A%A8%E8%83%BD?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
       "title": "中国男篮80:82不敌沙特男篮",
-      "heat": 10942501,
+      "heat": 11089910,
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80%3A82%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "中方：日方应还中国人民以净土",
-      "heat": 10371227,
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%96%B9%E5%BA%94%E8%BF%98%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A5%E5%87%80%E5%9C%9F?type=general",
+      "title": "冬日冷感忧郁穿搭",
+      "heat": 10486745,
+      "url": "https://www.douyin.com/search/%E5%86%AC%E6%97%A5%E5%86%B7%E6%84%9F%E5%BF%A7%E9%83%81%E7%A9%BF%E6%90%AD?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "清迈的天灯节也太美了吧",
-      "heat": 10238693,
-      "url": "https://www.douyin.com/search/%E6%B8%85%E8%BF%88%E7%9A%84%E5%A4%A9%E7%81%AF%E8%8A%82%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86%E5%90%A7?type=general",
+      "title": "今日起电视开机广告没了",
+      "heat": 10476568,
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "已被这届烟火榜美食选中",
-      "heat": 9112404,
-      "url": "https://www.douyin.com/search/%E5%B7%B2%E8%A2%AB%E8%BF%99%E5%B1%8A%E7%83%9F%E7%81%AB%E6%A6%9C%E7%BE%8E%E9%A3%9F%E9%80%89%E4%B8%AD?type=general",
+      "title": "2026广州车展开幕",
+      "heat": 9263814,
+      "url": "https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "中方回应美国称对华加征关税",
-      "heat": 9011366,
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E7%A7%B0%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E?type=general",
+      "title": "普通人冬日彩色穿搭公式",
+      "heat": 9261600,
+      "url": "https://www.douyin.com/search/%E6%99%AE%E9%80%9A%E4%BA%BA%E5%86%AC%E6%97%A5%E5%BD%A9%E8%89%B2%E7%A9%BF%E6%90%AD%E5%85%AC%E5%BC%8F?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "欧联尤文图斯vs奥莫尼亚",
-      "heat": 8832520,
-      "url": "https://www.douyin.com/search/%E6%AC%A7%E8%81%94%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E5%A5%A5%E8%8E%AB%E5%B0%BC%E4%BA%9A?type=general",
+      "title": "火旺动画定档",
+      "heat": 9216279,
+      "url": "https://www.douyin.com/search/%E7%81%AB%E6%97%BA%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3?type=general",
       "category": ""
     },
     {
       "platform": "抖音",
-      "title": "提前预习圣诞穿搭",
-      "heat": 8554746,
-      "url": "https://www.douyin.com/search/%E6%8F%90%E5%89%8D%E9%A2%84%E4%B9%A0%E5%9C%A3%E8%AF%9E%E7%A9%BF%E6%90%AD?type=general",
+      "title": "在济南过一个冒热气的周末",
+      "heat": 9142302,
+      "url": "https://www.douyin.com/search/%E5%9C%A8%E6%B5%8E%E5%8D%97%E8%BF%87%E4%B8%80%E4%B8%AA%E5%86%92%E7%83%AD%E6%B0%94%E7%9A%84%E5%91%A8%E6%9C%AB?type=general",
       "category": ""
     },
     {
@@ -287,72 +217,142 @@
     },
     {
       "platform": "B站",
-      "title": "「第一人称」真实的《西游记》有多恐怖？【AI全民制作人】",
-      "heat": 1523201,
-      "url": "https://www.bilibili.com/video/BV1j9ykzGEsK",
+      "title": "《绝区零》挽昼动画短片 | 最后的旅途",
+      "heat": 312775,
+      "url": "https://www.bilibili.com/video/BV1or1HzXEi1",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "天津.赵大姑 厨子探店¥350",
-      "heat": 716423,
-      "url": "https://www.bilibili.com/video/BV1C2y2zYEV8",
+      "title": "《明日方舟》SideStory「星星不愿入睡」活动宣传PV",
+      "heat": 830684,
+      "url": "https://www.bilibili.com/video/BV19k1Jz5Ea8",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "《不小心捡了只猫咪》",
-      "heat": 860136,
-      "url": "https://www.bilibili.com/video/BV1FPykz2EYe",
+      "title": "「2027明日方舟：终末地终末回响专场演出-镌宇留声」先导预告公开",
+      "heat": 239304,
+      "url": "https://www.bilibili.com/video/BV1GF17zKEiP",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "【纪录片】人生一串 第四季 04 边城浪子",
-      "heat": 829662,
-      "url": "https://www.bilibili.com/video/BV1fFy6z6En1",
+      "title": "【独家】《罗小黑战记》第45话 美好的暑假如此短暂【10月国创】",
+      "heat": 641617,
+      "url": "https://www.bilibili.com/video/BV1Em1jz5EpX",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "长得帅就要被网爆么?",
-      "heat": 1063355,
-      "url": "https://www.bilibili.com/video/BV11AyUz6E6h",
+      "title": "2026无畏契约源能国际邀请赛 | 分组大会",
+      "heat": 490460,
+      "url": "https://www.bilibili.com/video/BV1BV1EzLEYq",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "特朗普与民主党抽象乱斗",
-      "heat": 1223144,
-      "url": "https://www.bilibili.com/video/BV1xzy2zMExY",
+      "title": "【毕导】最对味的一集！如何放出无声的屁？响屁不臭臭屁不响是真的吗？",
+      "heat": 125114,
+      "url": "https://www.bilibili.com/video/BV1Dd1HzVENm",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "“MJ宇宙之最正能量的一集”",
-      "heat": 974868,
-      "url": "https://www.bilibili.com/video/BV1euy6zeEDx",
+      "title": "《白银之城》世界观PV | 童话的起笔",
+      "heat": 359447,
+      "url": "https://www.bilibili.com/video/BV1uT17zhEJX",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "吓哭了！华山长空栈道是人爬的？和有山挑战天下第一奇险",
-      "heat": 305475,
-      "url": "https://www.bilibili.com/video/BV1dj1EzVE4L",
+      "title": "看懂前：啊？ 看懂后：啊啊啊！！！",
+      "heat": 1582650,
+      "url": "https://www.bilibili.com/video/BV1J1ykzmEub",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "考研政治一页纸（3小时速成选择40+）",
-      "heat": 277265,
-      "url": "https://www.bilibili.com/video/BV1wXyUzME25",
+      "title": "热烈欢迎胡兵👏兵哥的字典里没有“随便”两个字！看看今天会给我们带来什么样的震撼🫨",
+      "heat": 137343,
+      "url": "https://www.bilibili.com/video/BV1dDy6ziEUD",
       "category": ""
     },
     {
       "platform": "B站",
-      "title": "【镇魂街 第五季】你们带来的这片江山，我就先收下了【PV】",
-      "heat": 224538,
-      "url": "https://www.bilibili.com/video/BV1Vhsm69EuN",
+      "title": "【欢迎来龙餐馆】起锅开灶，好好吃饭",
+      "heat": 645838,
+      "url": "https://www.bilibili.com/video/BV14iy2zgE4s",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "国常会：加力发挥“国家队”稳市作用",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712712142788496923/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "A股午后爆发",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712319974953680950/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "延时看神舟二十四号与绚烂朝霞同框",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712036769054608950/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "油价下跌谁最受伤",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712706489739120154/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "原来鹅毛大雪是真的",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7711496363305878054/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "三只松鼠就员工宿舍脏乱差致歉",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712378042722697258/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "东风着陆场准备迎接中外航天员返回",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712478858696491529/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "今起电视开机广告没了",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712385205429764618/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "三只松鼠员工必须用“鼠”取名字",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712472413543792703/",
+      "category": ""
+    },
+    {
+      "platform": "头条",
+      "title": "特朗普：美国不需要中东石油",
+      "heat": 0,
+      "url": "https://www.toutiao.com/trending/7712693788032975387/",
       "category": ""
     },
     {
@@ -427,13 +427,13 @@
     }
   ],
   "debug": {
-    "startedAt": "2026-11-26T20:54:19.371Z",
-    "finishedAt": "2026-11-26T20:54:30.197Z",
+    "startedAt": "2026-11-27T06:40:40.169Z",
+    "finishedAt": "2026-11-27T06:41:08.330Z",
     "results": [
       {
         "platform": "微博",
-        "ok": true,
-        "count": 10
+        "ok": false,
+        "error": "This operation was aborted"
       },
       {
         "platform": "知乎",
@@ -457,8 +457,8 @@
       },
       {
         "platform": "头条",
-        "ok": false,
-        "error": "HTTP 429"
+        "ok": true,
+        "count": 10
       },
       {
         "platform": "百度",
